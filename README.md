@@ -18,6 +18,7 @@
 ### 🧠 LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/DipakGaikwad0021/)
+![LeetCode Contest Rating](https://leetcode-badge-showcase.vercel.app/api/contest/DipakGaikwad0021)
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DipakGaikwad0021&theme=dark)
 
