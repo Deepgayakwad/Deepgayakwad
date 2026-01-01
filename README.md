@@ -38,20 +38,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 
-<!-- Codeforces -->
-<a href="https://codeforces.com/profile/deepgayakwad001/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="40"/>
+<!-- Codeforces (use custom icon) -->
+<a href="https://codeforces.com/profile/deepgayakwad001" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeforces_logo.svg" width="40"/>
 </a>
 
 <!-- CodeChef -->
-<a href="https://www.codechef.com/users/dipaksg01/" target="_blank">
+<a href="https://www.codechef.com/users/dipaksg01" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40"/>
 </a>
 
-<!-- GeeksforGeeks -->
-<a href="https://auth.geeksforgeeks.org/user/Dipak Gayakwad/" target="_blank">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210817185016/gfg.png" width="40"/>
-</a>
+
 </p>
 
 ---
