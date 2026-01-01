@@ -39,7 +39,7 @@
 </a>
 
 <!-- Codeforces -->
-<a href="https://codeforces.com/profile/deepgayakwad001" target="_blank">
+<a href="https://codeforces.com/profile/deepgayakwad001/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="40"/>
 </a>
 
