@@ -3,7 +3,7 @@
 <td>
 
 <h1 align="center">Hi 👋, I'm Dipak Gayakwad</h1>
-<h3 align="center" style="color:#38bdf8;">Always learning new things</h3>
+<h3 align="center" style="color:#38bdf8;">Always Learning New Things</h3>
 
 ---
 
