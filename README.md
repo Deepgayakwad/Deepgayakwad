@@ -1,13 +1,17 @@
+<table align="center" width="90%">
+<tr>
+<td>
+
 <h1 align="center">Hi 👋, I'm Dipak Gayakwad</h1>
-<h3 align="center">Always learning new things</h3>
+<h3 align="center" style="color:#38bdf8;">Always learning new things</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **MERN Stack**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **Data Structures & Algorithms, C++, Java, JavaScript,Node.js,React.js,Express.js**
-- 📫 How to reach me: **dipaksgaykwad2004@gmail.com**
+- 🔭 Currently working on the **MERN Stack**
+- 🌱 Currently learning **Next.js**
+- 💬 Ask me about **Data Structures & Algorithms, C++, Java, JavaScript, Node.js, React.js, Express.js**
+- 📫 Reach me at: **dipaksgaykwad2004@gmail.com**
 
 ---
 
@@ -19,7 +23,7 @@
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-gaikwad-943498290/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
@@ -31,7 +35,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="left">
 
 <!-- Frontend -->
@@ -48,19 +52,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 
-
 <!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-<!-- Tools & Others -->
+<!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 
-
 </p>
-
 
 ---
 
 ### 📊 GitHub Stats
 ![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepgayakwad&show_icons=true&theme=tokyonight)
+
+</td>
+</tr>
+</table>
+
