@@ -1,31 +1,43 @@
-<table align="center" width="90%">
-<tr>
-<td>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Deepgayakwad&label=Profile%20Views&color=0e75b6&style=flat" alt="Dipak Profile Views" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Dipak Gayakwad</h1>
-<h3 align="center" style="color:#38bdf8;">👨‍💻📚 Learning, Building & Growing Every Day</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Competitive+Programmer;MERN+Stack+Developer;Aspiring+Software+Engineer;DSA+Enthusiast" alt="Typing SVG" />
+</p>
+
+<!-- Skills Category Line -->
+<p align="center">
+  <strong>DS</strong> |
+  <strong>Algorithms</strong> |
+  <strong>OOP</strong> |
+  <strong>MERN Stack</strong> |
+  <strong>React.js</strong>
+</p>
+
+<hr/>
+
+## 👨‍💻 About Me  
+- 🔭 Currently working on the **MERN Stack**  
+- 🌱 Learning **Next.js**  
+- 💬 Ask me about **Data Structures, C++, Java, JavaScript, React, Node.js, Express.js**  
+- 📫 Reach me at **dipaksgaykwad2004@gmail.com**
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on the **MERN Stack**
-- 🌱 Currently learning **Next.js**
-- 💬 Ask me about **Data Structures & Algorithms, C++, Java, JavaScript, Node.js, React.js, Express.js**
-- 📫 Reach me at: **dipaksgaykwad2004@gmail.com**
+## 🧠 LeetCode  
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/DipakGaikwad0021/)
 
----
-
-### 🧠 LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/DipakGaikwad0021/)
-
- 🏆 Maximum Contest Rating:1611(Top 21% Globally)
+🏆 **Max Rating:** 1611 *(Top 21% Globally)*  
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DipakGaikwad0021&theme=dark)
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-gaikwad-943498290/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
@@ -33,27 +45,20 @@
 <a href="https://github.com/Deepgayakwad" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </a>
-<!-- LeetCode -->
 <a href="https://leetcode.com/DipakGaikwad0021/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
-
-<!-- Codeforces (use custom icon) -->
 <a href="https://codeforces.com/profile/deepgayakwad001" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeforces_logo.svg" width="40"/>
 </a>
-
-<!-- CodeChef -->
 <a href="https://www.codechef.com/users/dipaksg01" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40"/>
 </a>
-
-
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages & Tools  
 <p align="left">
 
 <!-- Frontend -->
@@ -61,7 +66,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 
 <!-- Backend -->
@@ -78,15 +82,9 @@
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepgayakwad&show_icons=true&theme=tokyonight)
-
-</td>
-</tr>
-</table>
-
