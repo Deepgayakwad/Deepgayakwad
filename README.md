@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Competitive+Programmer;MERN+Stack+Developer;Aspiring+Software+Engineer;DS+|+Algorithms+|OOP;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Aspiring+Software+Engineer;DS+|+Algorithms+|OOP;" alt="Typing SVG" />
 </p>
 
 
