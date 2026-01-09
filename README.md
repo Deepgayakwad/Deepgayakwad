@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Deepgayakwad&label=Profile%20Views&color=0e75b6&style=flat" alt="Dipak Profile Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dipak Gayakwad</h1>
+<h1 align="center">Hi 👋, I'm Dipak Sanjay Gayakwad</h1>
 
 <!-- Typing Animation -->
 <p align="center">
