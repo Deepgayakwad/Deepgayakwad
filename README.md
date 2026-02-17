@@ -37,6 +37,7 @@
 
 ---
  <h3 align="center">💼 Professional Highlights</h3>
+ 
 🏆 **ICPC 2025 Preliminary Round** – Achieved **AIR 1936** among nationwide teams  
 
 🔥 **LeetCode** – Max Rating **1673** *(Top 15% globally)*
