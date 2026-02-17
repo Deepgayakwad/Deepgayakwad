@@ -19,29 +19,11 @@
 
 <h2 align="center">🏆 Competitive Programming</h2>
 
-<table align="center">
-  <tr>
-    <!-- LEFT: Text Stats -->
-    <td align="center" valign="middle" style="padding: 10px;">
-
-### 🎯 LeetCode Stats
-
-| Max Rating | Global Rank | Problems Solved |
-|:---------:|:-----------:|:---------------:|
-| **1673** 🔥 | **Top 15%** 🌍 | **580+** 🧠 |
-
-    </td>
-
-    <!-- RIGHT: LeetCode Card -->
-    <td align="center" valign="middle" style="padding: 10px;">
-      <a href="https://leetcode.com/u/DipakGaikwad0021/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/DipakGaikwad0021?theme=dark&ext=contest"
-             alt="LeetCode Stats"
-             height="200" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  ### 🎯 LeetCode Stats
+  | Max Rating | Global Rank | Problems Solved | 
+  |:---------:|:-----------:|:---------------:| 
+  | **1673** 🔥 | **Top 15%** 🌍 | **580+** 🧠 | </div>
 ---
 <h3 align="center">💼 Professional Highlights</h3>
 
