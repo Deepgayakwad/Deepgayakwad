@@ -1,81 +1,93 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Deepgayakwad&label=Profile%20Views&color=0e75b6&style=flat" alt="Dipak Profile Views" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Dipak Sanjay Gayakwad</h1>
+<h3 align="center">🚀 MERN Stack Developer | DSA & Competitive Programming Enthusiast | Problem Solver</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Aspiring+Software+Engineer;DS+|+Algorithms+|OOP;" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Deepgayakwad&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/deepak-gaikwad-943498290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dipaksgaykwad2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-
-
-## 👨‍💻 About Me  
-- 🔭 Currently working on the **MERN Stack**  
-- 🌱 Learning **Next.js**  
-- 💬 Ask me about **Data Structures, C++, Java, JavaScript, React, Node.js, Express.js**  
-- 📫 Reach me at **dipaksgaykwad2004@gmail.com**
-
----
-
-## 🧠 LeetCode  
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/DipakGaikwad0021/)
-
-🏆 **Max Rating:** 1611 *(Top 21% Globally)*  
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DipakGaikwad0021&theme=dark)
-
----
-
-## 🤝 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/deepak-gaikwad-943498290/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-<a href="https://github.com/Deepgayakwad" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
-<a href="https://leetcode.com/DipakGaikwad0021/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/deepgayakwad001" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Codeforces_logo.svg" width="40"/>
-</a>
-<a href="https://www.codechef.com/users/dipaksg01" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Aspiring+Software+Engineer;DSA+%7C+Algorithms+%7C+OOP;LeetCode+Top+21%25" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="left">
+<h2 align="center">🏆 Competitive Programming</h2>
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<div align="center">
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+### 🎯 LeetCode Stats
 
-<!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+| Max Rating | Global Rank | Problems Solved |
+|:---------:|:-----------:|:---------------:|
+| **1611** 🔥 | **Top 21%** 🌍 | **700+** 🧠 |
 
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+### 📊 Platforms
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+🔥 **LeetCode** (1611) • 🌟 **Codeforces** • ⭐ **CodeChef**
+
+</div>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=DipakGaikwad0021&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepgayakwad&show_icons=true&theme=tokyonight)
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+🔭 Currently working on <b>MERN Stack</b><br/>
+🌱 Learning <b>Next.js</b><br/>
+💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
+📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
+</p>
+
+---
+
+<h2 align="center">🚀 Skills & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepgayakwad&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-gaikwad-943498290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/DipakGaikwad0021/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
+  </a>
+  <a href="https://codeforces.com/profile/deepgayakwad001" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.codechef.com/users/dipaksg01" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Deepgayakwad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Deepgayakwad">Dipak Gayakwad</a> — open to internships, collaborations & opportunities!</i>
+</p>
