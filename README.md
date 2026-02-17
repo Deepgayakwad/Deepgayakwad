@@ -68,16 +68,6 @@
 </p>
 
 ---
-
-<h3 align="center">👨‍💻 About Me</h3>
-
-<p align="center">
-🔭 Currently working on <b>MERN Stack</b><br/>
-🌱 Learning <b>DevOps</b><br/>
-💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
-📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
-</p>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -104,6 +94,18 @@
   <a href="https://github.com/Deepgayakwad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
+</p>
+
+
+---
+
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+🔭 Currently working on <b>MERN Stack</b><br/>
+🌱 Learning <b>DevOps</b><br/>
+💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
+📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
 </p>
 
 ---
