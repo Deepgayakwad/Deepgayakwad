@@ -25,11 +25,11 @@
 
 | Max Rating | Global Rank | Problems Solved |
 |:---------:|:-----------:|:---------------:|
-| **1611** 🔥 | **Top 21%** 🌍 | **700+** 🧠 |
+| **1673** 🔥 | **Top 15%** 🌍 | **580+** 🧠 |
 
 ### 📊 Platforms
 
-🔥 **LeetCode** (1611) • 🌟 **Codeforces** • ⭐ **CodeChef**
+🔥 **LeetCode** (1673) • 
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
 🔭 Currently working on <b>MERN Stack</b><br/>
-🌱 Learning <b>Next.js</b><br/>
+🌱 Learning <b>DevOps</b><br/>
 💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
 📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
 </p>
