@@ -19,7 +19,10 @@
 
 <h2 align="center">🏆 Competitive Programming</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <!-- LEFT: Text Stats -->
+    <td align="center" valign="middle" style="padding: 10px;">
 
 ### 🎯 LeetCode Stats
 
@@ -27,21 +30,18 @@
 |:---------:|:-----------:|:---------------:|
 | **1673** 🔥 | **Top 15%** 🌍 | **580+** 🧠 |
 
-### 📊 Platforms
+    </td>
 
-🔥 **LeetCode** (1673) • 
-
-</div>
-
-
-<p align="center">
-  <a href="https://leetcode.com/u/DipakGaikwad0021/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/DipakGaikwad0021?theme=dark&ext=contest"
-         alt="LeetCode Stats"
-         height="200" />
-  </a>
-</p>
-
+    <!-- RIGHT: LeetCode Card -->
+    <td align="center" valign="middle" style="padding: 10px;">
+      <a href="https://leetcode.com/u/DipakGaikwad0021/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/DipakGaikwad0021?theme=dark&ext=contest"
+             alt="LeetCode Stats"
+             height="200" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 <h3 align="center">💼 Professional Highlights</h3>
 
