@@ -38,15 +38,26 @@
 </p>
 
 ---
-
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">💼 Professional Highlights</h3>
 
 <p align="center">
-🔭 Currently working on <b>MERN Stack</b><br/>
-🌱 Learning <b>DevOps</b><br/>
-💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
-📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
+
+🏆 **ICPC 2025 Preliminary Round** – Achieved **AIR 1936** among nationwide teams  
+
+🔥 **LeetCode** – Max Rating **1673** *(Top 15% globally)*
+
+🥈 **2nd Rank** - In Code relay event under the techfest-2026 by Anantya PCCOE Pune from 23/1/2026 to 24/1/2026
+
+📅 Earned the prestigious **LeetCode 365-Day Badge**  
+
+🧠 Solved **580+ DSA problems** on LeetCode  
+
+🎓 **Department Topper** – First Year Engineering *(Academic Year 2023–2024)*  
+
+🏅 Achieved a perfect **10 SGPA** in the **Second Semester** of Engineering  
+
 </p>
+
 
 ---
 
@@ -57,6 +68,15 @@
 </p>
 
 ---
+
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+🔭 Currently working on <b>MERN Stack</b><br/>
+🌱 Learning <b>DevOps</b><br/>
+💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
+📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
