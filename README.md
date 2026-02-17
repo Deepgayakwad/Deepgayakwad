@@ -33,8 +33,13 @@
 
 </div>
 
+
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=DipakGaikwad0021&theme=dark" />
+  <a href="https://leetcode.com/u/DipakGaikwad0021/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/DipakGaikwad0021?theme=dark&ext=contest"
+         alt="LeetCode Stats"
+         height="200" />
+  </a>
 </p>
 
 ---
