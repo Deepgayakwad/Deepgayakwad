@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipak Sanjay Gayakwad</h1>
-<h3 align="center">🚀 MERN Stack Developer | DSA & Competitive Programming Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | DSA & Competitive Programming Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepgayakwad&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
