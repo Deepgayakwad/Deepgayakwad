@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepgayakwad&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/deepak-gaikwad-943498290/">
+  <a href="https://www.linkedin.com/in/dipak-gayakwad-943498290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dipaksgaykwad2004@gmail.com">
