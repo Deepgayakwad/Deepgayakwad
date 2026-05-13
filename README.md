@@ -38,7 +38,9 @@
 ---
  <h3 align="center">💼 Professional Highlights</h3>
  
-🏆 **ICPC 2025 Preliminary Round** – Achieved **AIR 1936** among nationwide teams  
+🏆 **ICPC 2025 Preliminary Round** – Achieved **AIR 1936** among nationwide teams
+
+🥈 HackWithInfy 2026 Qualified Round 2 
 
 🔥 **LeetCode** – Max Rating **1673** *(Top 15% globally)*
 
