@@ -94,7 +94,7 @@
 
 <p align="center">
 🔭 Currently working on <b>MERN Stack</b><br/>
-🌱 Learning <b>DevOps</b><br/>
+🌱 Learning <b>Generative AI</b><br/>
 💬 Ask me about <b>DSA, C++, Java, JavaScript, React, Node.js</b><br/>
 📫 Reach me at <b>dipaksgaykwad2004@gmail.com</b>
 </p>
