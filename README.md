@@ -40,7 +40,7 @@
  
 🏆 **ICPC 2025 Preliminary Round** – Achieved **AIR 1936** among nationwide teams
 
-🏅 HackWithInfy`26 @Infosys
+🏅 Received PPO for DSE at Infosys through HackWithInfy'26.
 
 🔥 **LeetCode** – Max Rating **1673** *(Top 15% globally)*
 
