@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/u/DipakGaikwad0021/" target="_blank">
+  <a href="https://leetcode.com/u/d__2004/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/DipakGaikwad0021?theme=dark&ext=contest"
          alt="LeetCode Stats"
          height="200" />
