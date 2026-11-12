@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/d__2004/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/DipakGaikwad0021?theme=dark&ext=contest"
+    <img src="https://leetcard.jacoblin.cool/d__2004?theme=dark&ext=contest"
          alt="LeetCode Stats"
          height="200" />
   </a>
@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/dipak-gayakwad-943498290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/DipakGaikwad0021/" target="_blank">
+  <a href="https://leetcode.com/u/d__2004/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/deepgayakwad001" target="_blank">
